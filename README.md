@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @evan8133
-- 👀 I’m interested in Flutter & Database
-- 🌱 I’m currently learning API & Algorithms 
+- 👀 I’m good with Flutter & Database
+- 🌱 I’m currently learning API 
 - 🤝 I’m looking to collaborate on Flutter projects
 - 📫 How to reach me arivan.shamal81@gmail.com
 
